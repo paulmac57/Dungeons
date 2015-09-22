@@ -1,0 +1,2959 @@
+fileFormatVersion: 2
+guid: 04a0b99eb348264438d3cb4927b9d4bc
+timeCreated: 1442845706
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayStation - Tales of Phantasia - Cave Tileset_0
+    21300002: PlayStation - Tales of Phantasia - Cave Tileset_1
+    21300004: PlayStation - Tales of Phantasia - Cave Tileset_2
+    21300006: PlayStation - Tales of Phantasia - Cave Tileset_3
+    21300008: PlayStation - Tales of Phantasia - Cave Tileset_4
+    21300010: PlayStation - Tales of Phantasia - Cave Tileset_5
+    21300012: PlayStation - Tales of Phantasia - Cave Tileset_6
+    21300014: PlayStation - Tales of Phantasia - Cave Tileset_7
+    21300016: PlayStation - Tales of Phantasia - Cave Tileset_8
+    21300018: PlayStation - Tales of Phantasia - Cave Tileset_9
+    21300020: PlayStation - Tales of Phantasia - Cave Tileset_10
+    21300022: PlayStation - Tales of Phantasia - Cave Tileset_11
+    21300024: PlayStation - Tales of Phantasia - Cave Tileset_12
+    21300026: PlayStation - Tales of Phantasia - Cave Tileset_13
+    21300028: PlayStation - Tales of Phantasia - Cave Tileset_14
+    21300030: PlayStation - Tales of Phantasia - Cave Tileset_15
+    21300032: PlayStation - Tales of Phantasia - Cave Tileset_16
+    21300034: PlayStation - Tales of Phantasia - Cave Tileset_17
+    21300036: PlayStation - Tales of Phantasia - Cave Tileset_18
+    21300038: PlayStation - Tales of Phantasia - Cave Tileset_19
+    21300040: PlayStation - Tales of Phantasia - Cave Tileset_20
+    21300042: PlayStation - Tales of Phantasia - Cave Tileset_21
+    21300044: PlayStation - Tales of Phantasia - Cave Tileset_22
+    21300046: PlayStation - Tales of Phantasia - Cave Tileset_23
+    21300048: PlayStation - Tales of Phantasia - Cave Tileset_24
+    21300050: PlayStation - Tales of Phantasia - Cave Tileset_25
+    21300052: PlayStation - Tales of Phantasia - Cave Tileset_26
+    21300054: PlayStation - Tales of Phantasia - Cave Tileset_27
+    21300056: PlayStation - Tales of Phantasia - Cave Tileset_28
+    21300058: PlayStation - Tales of Phantasia - Cave Tileset_29
+    21300060: PlayStation - Tales of Phantasia - Cave Tileset_30
+    21300062: PlayStation - Tales of Phantasia - Cave Tileset_31
+    21300064: PlayStation - Tales of Phantasia - Cave Tileset_32
+    21300066: PlayStation - Tales of Phantasia - Cave Tileset_33
+    21300068: PlayStation - Tales of Phantasia - Cave Tileset_34
+    21300070: PlayStation - Tales of Phantasia - Cave Tileset_35
+    21300072: PlayStation - Tales of Phantasia - Cave Tileset_36
+    21300074: PlayStation - Tales of Phantasia - Cave Tileset_37
+    21300076: PlayStation - Tales of Phantasia - Cave Tileset_38
+    21300078: PlayStation - Tales of Phantasia - Cave Tileset_39
+    21300080: PlayStation - Tales of Phantasia - Cave Tileset_40
+    21300082: PlayStation - Tales of Phantasia - Cave Tileset_41
+    21300084: PlayStation - Tales of Phantasia - Cave Tileset_42
+    21300086: PlayStation - Tales of Phantasia - Cave Tileset_43
+    21300088: PlayStation - Tales of Phantasia - Cave Tileset_44
+    21300090: PlayStation - Tales of Phantasia - Cave Tileset_45
+    21300092: PlayStation - Tales of Phantasia - Cave Tileset_46
+    21300094: PlayStation - Tales of Phantasia - Cave Tileset_47
+    21300096: PlayStation - Tales of Phantasia - Cave Tileset_48
+    21300098: PlayStation - Tales of Phantasia - Cave Tileset_49
+    21300100: PlayStation - Tales of Phantasia - Cave Tileset_50
+    21300102: PlayStation - Tales of Phantasia - Cave Tileset_51
+    21300104: PlayStation - Tales of Phantasia - Cave Tileset_52
+    21300106: PlayStation - Tales of Phantasia - Cave Tileset_53
+    21300108: PlayStation - Tales of Phantasia - Cave Tileset_54
+    21300110: PlayStation - Tales of Phantasia - Cave Tileset_55
+    21300112: PlayStation - Tales of Phantasia - Cave Tileset_56
+    21300114: PlayStation - Tales of Phantasia - Cave Tileset_57
+    21300116: PlayStation - Tales of Phantasia - Cave Tileset_58
+    21300118: PlayStation - Tales of Phantasia - Cave Tileset_59
+    21300120: PlayStation - Tales of Phantasia - Cave Tileset_60
+    21300122: PlayStation - Tales of Phantasia - Cave Tileset_61
+    21300124: PlayStation - Tales of Phantasia - Cave Tileset_62
+    21300126: PlayStation - Tales of Phantasia - Cave Tileset_63
+    21300128: PlayStation - Tales of Phantasia - Cave Tileset_64
+    21300130: PlayStation - Tales of Phantasia - Cave Tileset_65
+    21300132: PlayStation - Tales of Phantasia - Cave Tileset_66
+    21300134: PlayStation - Tales of Phantasia - Cave Tileset_67
+    21300136: PlayStation - Tales of Phantasia - Cave Tileset_68
+    21300138: PlayStation - Tales of Phantasia - Cave Tileset_69
+    21300140: PlayStation - Tales of Phantasia - Cave Tileset_70
+    21300142: PlayStation - Tales of Phantasia - Cave Tileset_71
+    21300144: PlayStation - Tales of Phantasia - Cave Tileset_72
+    21300146: PlayStation - Tales of Phantasia - Cave Tileset_73
+    21300148: PlayStation - Tales of Phantasia - Cave Tileset_74
+    21300150: PlayStation - Tales of Phantasia - Cave Tileset_75
+    21300152: PlayStation - Tales of Phantasia - Cave Tileset_76
+    21300154: PlayStation - Tales of Phantasia - Cave Tileset_77
+    21300156: PlayStation - Tales of Phantasia - Cave Tileset_78
+    21300158: PlayStation - Tales of Phantasia - Cave Tileset_79
+    21300160: PlayStation - Tales of Phantasia - Cave Tileset_80
+    21300162: PlayStation - Tales of Phantasia - Cave Tileset_81
+    21300164: PlayStation - Tales of Phantasia - Cave Tileset_82
+    21300166: PlayStation - Tales of Phantasia - Cave Tileset_83
+    21300168: PlayStation - Tales of Phantasia - Cave Tileset_84
+    21300170: PlayStation - Tales of Phantasia - Cave Tileset_85
+    21300172: PlayStation - Tales of Phantasia - Cave Tileset_86
+    21300174: PlayStation - Tales of Phantasia - Cave Tileset_87
+    21300176: PlayStation - Tales of Phantasia - Cave Tileset_88
+    21300178: PlayStation - Tales of Phantasia - Cave Tileset_89
+    21300180: PlayStation - Tales of Phantasia - Cave Tileset_90
+    21300182: PlayStation - Tales of Phantasia - Cave Tileset_91
+    21300184: PlayStation - Tales of Phantasia - Cave Tileset_92
+    21300186: PlayStation - Tales of Phantasia - Cave Tileset_93
+    21300188: PlayStation - Tales of Phantasia - Cave Tileset_94
+    21300190: PlayStation - Tales of Phantasia - Cave Tileset_95
+    21300192: PlayStation - Tales of Phantasia - Cave Tileset_96
+    21300194: PlayStation - Tales of Phantasia - Cave Tileset_97
+    21300196: PlayStation - Tales of Phantasia - Cave Tileset_98
+    21300198: PlayStation - Tales of Phantasia - Cave Tileset_99
+    21300200: PlayStation - Tales of Phantasia - Cave Tileset_100
+    21300202: PlayStation - Tales of Phantasia - Cave Tileset_101
+    21300204: PlayStation - Tales of Phantasia - Cave Tileset_102
+    21300206: PlayStation - Tales of Phantasia - Cave Tileset_103
+    21300208: PlayStation - Tales of Phantasia - Cave Tileset_104
+    21300210: PlayStation - Tales of Phantasia - Cave Tileset_105
+    21300212: PlayStation - Tales of Phantasia - Cave Tileset_106
+    21300214: PlayStation - Tales of Phantasia - Cave Tileset_107
+    21300216: PlayStation - Tales of Phantasia - Cave Tileset_108
+    21300218: PlayStation - Tales of Phantasia - Cave Tileset_109
+    21300220: PlayStation - Tales of Phantasia - Cave Tileset_110
+    21300222: PlayStation - Tales of Phantasia - Cave Tileset_111
+    21300224: PlayStation - Tales of Phantasia - Cave Tileset_112
+    21300226: PlayStation - Tales of Phantasia - Cave Tileset_113
+    21300228: PlayStation - Tales of Phantasia - Cave Tileset_114
+    21300230: PlayStation - Tales of Phantasia - Cave Tileset_115
+    21300232: PlayStation - Tales of Phantasia - Cave Tileset_116
+    21300234: PlayStation - Tales of Phantasia - Cave Tileset_117
+    21300236: PlayStation - Tales of Phantasia - Cave Tileset_118
+    21300238: PlayStation - Tales of Phantasia - Cave Tileset_119
+    21300240: PlayStation - Tales of Phantasia - Cave Tileset_120
+    21300242: PlayStation - Tales of Phantasia - Cave Tileset_121
+    21300244: PlayStation - Tales of Phantasia - Cave Tileset_122
+    21300246: PlayStation - Tales of Phantasia - Cave Tileset_123
+    21300248: PlayStation - Tales of Phantasia - Cave Tileset_124
+    21300250: PlayStation - Tales of Phantasia - Cave Tileset_125
+    21300252: PlayStation - Tales of Phantasia - Cave Tileset_126
+    21300254: PlayStation - Tales of Phantasia - Cave Tileset_127
+    21300256: PlayStation - Tales of Phantasia - Cave Tileset_128
+    21300258: PlayStation - Tales of Phantasia - Cave Tileset_129
+    21300260: PlayStation - Tales of Phantasia - Cave Tileset_130
+    21300262: PlayStation - Tales of Phantasia - Cave Tileset_131
+    21300264: PlayStation - Tales of Phantasia - Cave Tileset_132
+    21300266: PlayStation - Tales of Phantasia - Cave Tileset_133
+    21300268: PlayStation - Tales of Phantasia - Cave Tileset_134
+    21300270: PlayStation - Tales of Phantasia - Cave Tileset_135
+    21300272: PlayStation - Tales of Phantasia - Cave Tileset_136
+    21300274: PlayStation - Tales of Phantasia - Cave Tileset_137
+    21300276: PlayStation - Tales of Phantasia - Cave Tileset_138
+    21300278: PlayStation - Tales of Phantasia - Cave Tileset_139
+    21300280: PlayStation - Tales of Phantasia - Cave Tileset_140
+    21300282: PlayStation - Tales of Phantasia - Cave Tileset_141
+    21300284: PlayStation - Tales of Phantasia - Cave Tileset_142
+    21300286: PlayStation - Tales of Phantasia - Cave Tileset_143
+    21300288: PlayStation - Tales of Phantasia - Cave Tileset_144
+    21300290: PlayStation - Tales of Phantasia - Cave Tileset_145
+    21300292: PlayStation - Tales of Phantasia - Cave Tileset_146
+    21300294: PlayStation - Tales of Phantasia - Cave Tileset_147
+    21300296: PlayStation - Tales of Phantasia - Cave Tileset_148
+    21300298: PlayStation - Tales of Phantasia - Cave Tileset_149
+    21300300: PlayStation - Tales of Phantasia - Cave Tileset_150
+    21300302: PlayStation - Tales of Phantasia - Cave Tileset_151
+    21300304: PlayStation - Tales of Phantasia - Cave Tileset_152
+    21300306: PlayStation - Tales of Phantasia - Cave Tileset_153
+    21300308: PlayStation - Tales of Phantasia - Cave Tileset_154
+    21300310: PlayStation - Tales of Phantasia - Cave Tileset_155
+    21300312: PlayStation - Tales of Phantasia - Cave Tileset_156
+    21300314: PlayStation - Tales of Phantasia - Cave Tileset_157
+    21300316: PlayStation - Tales of Phantasia - Cave Tileset_158
+    21300318: PlayStation - Tales of Phantasia - Cave Tileset_159
+    21300320: PlayStation - Tales of Phantasia - Cave Tileset_160
+    21300322: PlayStation - Tales of Phantasia - Cave Tileset_161
+    21300324: PlayStation - Tales of Phantasia - Cave Tileset_162
+    21300326: PlayStation - Tales of Phantasia - Cave Tileset_163
+    21300328: PlayStation - Tales of Phantasia - Cave Tileset_164
+    21300330: PlayStation - Tales of Phantasia - Cave Tileset_165
+    21300332: PlayStation - Tales of Phantasia - Cave Tileset_166
+    21300334: PlayStation - Tales of Phantasia - Cave Tileset_167
+    21300336: PlayStation - Tales of Phantasia - Cave Tileset_168
+    21300338: PlayStation - Tales of Phantasia - Cave Tileset_169
+    21300340: PlayStation - Tales of Phantasia - Cave Tileset_170
+    21300342: PlayStation - Tales of Phantasia - Cave Tileset_171
+    21300344: PlayStation - Tales of Phantasia - Cave Tileset_172
+    21300346: PlayStation - Tales of Phantasia - Cave Tileset_173
+    21300348: PlayStation - Tales of Phantasia - Cave Tileset_174
+    21300350: PlayStation - Tales of Phantasia - Cave Tileset_175
+    21300352: PlayStation - Tales of Phantasia - Cave Tileset_176
+    21300354: PlayStation - Tales of Phantasia - Cave Tileset_177
+    21300356: PlayStation - Tales of Phantasia - Cave Tileset_178
+    21300358: PlayStation - Tales of Phantasia - Cave Tileset_179
+    21300360: PlayStation - Tales of Phantasia - Cave Tileset_180
+    21300362: PlayStation - Tales of Phantasia - Cave Tileset_181
+    21300364: PlayStation - Tales of Phantasia - Cave Tileset_182
+    21300366: PlayStation - Tales of Phantasia - Cave Tileset_183
+    21300368: PlayStation - Tales of Phantasia - Cave Tileset_184
+    21300370: PlayStation - Tales of Phantasia - Cave Tileset_185
+    21300372: PlayStation - Tales of Phantasia - Cave Tileset_186
+    21300374: PlayStation - Tales of Phantasia - Cave Tileset_187
+    21300376: PlayStation - Tales of Phantasia - Cave Tileset_188
+    21300378: PlayStation - Tales of Phantasia - Cave Tileset_189
+    21300380: PlayStation - Tales of Phantasia - Cave Tileset_190
+    21300382: PlayStation - Tales of Phantasia - Cave Tileset_191
+    21300384: PlayStation - Tales of Phantasia - Cave Tileset_192
+    21300386: PlayStation - Tales of Phantasia - Cave Tileset_193
+    21300388: PlayStation - Tales of Phantasia - Cave Tileset_194
+    21300390: PlayStation - Tales of Phantasia - Cave Tileset_195
+    21300392: PlayStation - Tales of Phantasia - Cave Tileset_196
+    21300394: PlayStation - Tales of Phantasia - Cave Tileset_197
+    21300396: PlayStation - Tales of Phantasia - Cave Tileset_198
+    21300398: PlayStation - Tales of Phantasia - Cave Tileset_199
+    21300400: PlayStation - Tales of Phantasia - Cave Tileset_200
+    21300402: PlayStation - Tales of Phantasia - Cave Tileset_201
+    21300404: PlayStation - Tales of Phantasia - Cave Tileset_202
+    21300406: PlayStation - Tales of Phantasia - Cave Tileset_203
+    21300408: PlayStation - Tales of Phantasia - Cave Tileset_204
+    21300410: PlayStation - Tales of Phantasia - Cave Tileset_205
+    21300412: PlayStation - Tales of Phantasia - Cave Tileset_206
+    21300414: PlayStation - Tales of Phantasia - Cave Tileset_207
+    21300416: PlayStation - Tales of Phantasia - Cave Tileset_208
+    21300418: PlayStation - Tales of Phantasia - Cave Tileset_209
+    21300420: PlayStation - Tales of Phantasia - Cave Tileset_210
+    21300422: PlayStation - Tales of Phantasia - Cave Tileset_211
+    21300424: PlayStation - Tales of Phantasia - Cave Tileset_212
+    21300426: PlayStation - Tales of Phantasia - Cave Tileset_213
+    21300428: PlayStation - Tales of Phantasia - Cave Tileset_214
+    21300430: PlayStation - Tales of Phantasia - Cave Tileset_215
+    21300432: PlayStation - Tales of Phantasia - Cave Tileset_216
+    21300434: PlayStation - Tales of Phantasia - Cave Tileset_217
+    21300436: PlayStation - Tales of Phantasia - Cave Tileset_218
+    21300438: PlayStation - Tales of Phantasia - Cave Tileset_219
+    21300440: PlayStation - Tales of Phantasia - Cave Tileset_220
+    21300442: PlayStation - Tales of Phantasia - Cave Tileset_221
+    21300444: PlayStation - Tales of Phantasia - Cave Tileset_222
+    21300446: PlayStation - Tales of Phantasia - Cave Tileset_223
+    21300448: PlayStation - Tales of Phantasia - Cave Tileset_224
+    21300450: PlayStation - Tales of Phantasia - Cave Tileset_225
+    21300452: PlayStation - Tales of Phantasia - Cave Tileset_226
+    21300454: PlayStation - Tales of Phantasia - Cave Tileset_227
+    21300456: PlayStation - Tales of Phantasia - Cave Tileset_228
+    21300458: PlayStation - Tales of Phantasia - Cave Tileset_229
+    21300460: PlayStation - Tales of Phantasia - Cave Tileset_230
+    21300462: PlayStation - Tales of Phantasia - Cave Tileset_231
+    21300464: PlayStation - Tales of Phantasia - Cave Tileset_232
+    21300466: PlayStation - Tales of Phantasia - Cave Tileset_233
+    21300468: PlayStation - Tales of Phantasia - Cave Tileset_234
+    21300470: PlayStation - Tales of Phantasia - Cave Tileset_235
+    21300472: PlayStation - Tales of Phantasia - Cave Tileset_236
+    21300474: PlayStation - Tales of Phantasia - Cave Tileset_237
+    21300476: PlayStation - Tales of Phantasia - Cave Tileset_238
+    21300478: PlayStation - Tales of Phantasia - Cave Tileset_239
+    21300480: PlayStation - Tales of Phantasia - Cave Tileset_240
+    21300482: PlayStation - Tales of Phantasia - Cave Tileset_241
+    21300484: PlayStation - Tales of Phantasia - Cave Tileset_242
+    21300486: PlayStation - Tales of Phantasia - Cave Tileset_243
+    21300488: PlayStation - Tales of Phantasia - Cave Tileset_244
+    21300490: PlayStation - Tales of Phantasia - Cave Tileset_245
+    21300492: PlayStation - Tales of Phantasia - Cave Tileset_246
+    21300494: PlayStation - Tales of Phantasia - Cave Tileset_247
+    21300496: PlayStation - Tales of Phantasia - Cave Tileset_248
+    21300498: PlayStation - Tales of Phantasia - Cave Tileset_249
+    21300500: PlayStation - Tales of Phantasia - Cave Tileset_250
+    21300502: PlayStation - Tales of Phantasia - Cave Tileset_251
+    21300504: PlayStation - Tales of Phantasia - Cave Tileset_252
+    21300506: PlayStation - Tales of Phantasia - Cave Tileset_253
+    21300508: PlayStation - Tales of Phantasia - Cave Tileset_254
+    21300510: PlayStation - Tales of Phantasia - Cave Tileset_255
+    21300512: PlayStation - Tales of Phantasia - Cave Tileset_256
+    21300514: PlayStation - Tales of Phantasia - Cave Tileset_257
+    21300516: PlayStation - Tales of Phantasia - Cave Tileset_258
+    21300518: PlayStation - Tales of Phantasia - Cave Tileset_259
+    21300520: PlayStation - Tales of Phantasia - Cave Tileset_260
+    21300522: PlayStation - Tales of Phantasia - Cave Tileset_261
+    21300524: PlayStation - Tales of Phantasia - Cave Tileset_262
+    21300526: PlayStation - Tales of Phantasia - Cave Tileset_263
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_85
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_86
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_87
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_89
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_90
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_91
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_92
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_93
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_94
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_95
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_112
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_113
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_114
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_115
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_116
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_117
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_118
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_119
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_131
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_133
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_134
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_135
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_136
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_137
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_138
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_139
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_140
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_141
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_142
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_143
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_160
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_161
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_162
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_163
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_164
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_165
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_166
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_167
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_172
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_175
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_177
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_179
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_180
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_181
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_182
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_183
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_184
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_185
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_186
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_187
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_188
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_189
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_190
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_191
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_200
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_201
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_202
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_203
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_204
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_205
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_206
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_207
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_208
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_209
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_210
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_211
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_212
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_213
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_214
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_215
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_217
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_218
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_219
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_220
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_221
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_222
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_223
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_224
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_225
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_226
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_227
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_228
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_229
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_230
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_231
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_232
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_233
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_234
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_235
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_236
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_237
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_238
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_239
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_242
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_243
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_244
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_245
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_246
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_247
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_248
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_249
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_250
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_251
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_252
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_253
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_254
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_255
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_256
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_257
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_258
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_259
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_260
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_261
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_262
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayStation - Tales of Phantasia - Cave Tileset_263
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
