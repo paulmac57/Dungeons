@@ -1,9 +1,10 @@
-﻿using UnityEngine; 
+using UnityEngine; 
 using System.Collections; 
 using System.Xml; 
 using System.Xml.Serialization; 
 using System.IO; 
 using System.Text; 
+using System.Collections.Generic;
 
 public class _GameSaveLoad: MonoBehaviour { 
 	
@@ -22,6 +23,9 @@ public class _GameSaveLoad: MonoBehaviour {
 	string _data; 
 	
 	Vector3 VPosition; 
+	public Inventory _Inventory ; 
+	private ItemDatabase database ;
+	private Sprite[] sprites ;
 	
 	// When the EGO is instansiated the Start will trigger 
 	// so we setup our initial values for our local members 
@@ -35,15 +39,64 @@ public class _GameSaveLoad: MonoBehaviour {
 		// Where we want to save and load to and from 
 		_FileLocation=Application.dataPath; 
 		_FileName="SaveData.xml"; 
-		
+				
 		// for now, lets just set the name to Joe Schmoe 
 		_PlayerName = "Joe Schmoe"; 
+		//_Inventory = GetComponent<Inventory>() ;
+		_Inventory = GameObject.FindObjectOfType<Inventory>() ;
 		
 		// we need soemthing to store the information into 
 		myData=new UserData(); 
+		database = GameObject.FindGameObjectWithTag("ItemDatabase").GetComponent<ItemDatabase>() ;
+		sprites = Resources.LoadAll<Sprite> ("Tilesets/Items/34x34icons180709");
 	} 
 	
 	void Update () {} 
+
+	public void GetData ()
+	{
+		LoadXML(); 
+		if (_data.ToString () != "") {
+			// notice how I use a reference to type (UserData) here, you need this 
+			// so that the returned object is converted into the correct type 
+			myData = (UserData)DeserializeObject (_data);
+			// set the players position to the data we loaded 
+			VPosition = new Vector3 (myData._iUser.x, myData._iUser.y, myData._iUser.z);
+			_Player.transform.position = VPosition;
+			//myData._iUser.inventory = new List<Item>() ;
+			_Inventory.showInventory = false;
+			_Inventory.inventory = new List<Item> ();
+			_Inventory.CreateSlots ();
+			print (_Inventory.inventory.Count) ;
+			for (int i = 0; i < _Inventory.inventory.Count; i++) {
+				print (myData._iUser.inventory[i].itemName) ;
+				//_Inventory.inventory [i] = new Item ();
+				if (myData._iUser.inventory [i].itemID != -1) {
+					_Inventory.AddItem (myData._iUser.inventory [i].itemID, i);
+				}
+				//	_Inventory.inventory.Add(new Item(	myData._iUser.inventory[i].itemName,
+				//										myData._iUser.inventory[i].itemID,
+				//										myData._iUser.inventory[i].itemDesc,
+				//										myData._iUser.inventory[i].itemPower,
+				//										myData._iUser.inventory[i].itemSpeed,
+				//										myData._iUser.inventory[i].itemType)) ;
+				//					_Inventory.inventory.Add(new Item()) ;
+				//					_Inventory.inventory[i].itemName = myData._iUser.inventory[i].itemName;
+				//					_Inventory.inventory[i].itemID = myData._iUser.inventory[i].itemID ;
+				//					_Inventory.inventory[i].itemDesc = myData._iUser.inventory[i].itemDesc;
+				//					//_Inventory.inventory[i].itemIcon = myData._iUser.inventory[i].itemIcon; 
+				//					_Inventory.inventory[i].itemPower = myData._iUser.inventory[i].itemPower; 
+				//					_Inventory.inventory[i].itemSpeed = myData._iUser.inventory[i].itemSpeed;
+				//					
+				//					_Inventory.inventory[i].itemType = myData._iUser.inventory[i].itemType ;
+				//	_Inventory.inventory[i].itemIcon = sprites[myData._iUser.inventory[i].itemID].texture ;
+				//					
+			}
+			// just a way to show that we loaded in ok 
+			Debug.Log (myData._iUser.name);
+		}
+		
+	}
 	
 	void OnGUI() 
 	{    
@@ -55,18 +108,9 @@ public class _GameSaveLoad: MonoBehaviour {
 			
 			GUI.Label(_LoadMSG,"Loading from: "+_FileLocation); 
 			// Load our UserData into myData 
-			LoadXML(); 
-			if(_data.ToString() != "") 
-			{ 
-				// notice how I use a reference to type (UserData) here, you need this 
-				// so that the returned object is converted into the correct type 
-				myData = (UserData)DeserializeObject(_data); 
-				// set the players position to the data we loaded 
-				VPosition=new Vector3(myData._iUser.x,myData._iUser.y,myData._iUser.z);              
-				_Player.transform.position=VPosition; 
-				// just a way to show that we loaded in ok 
-				Debug.Log(myData._iUser.name); 
-			} 
+			
+			
+			GetData (); 
 			
 		} 
 		
@@ -79,7 +123,24 @@ public class _GameSaveLoad: MonoBehaviour {
 			myData._iUser.x=_Player.transform.position.x; 
 			myData._iUser.y=_Player.transform.position.y; 
 			myData._iUser.z=_Player.transform.position.z; 
-			myData._iUser.name=_PlayerName;    
+			myData._iUser.name=_PlayerName;
+			print ("Count is " +_Inventory.inventory.Count) ; 
+			myData._iUser.inventory  = new List<Item>() ;
+			
+			for (int i = 0; i < _Inventory.inventory.Count;i++)
+			{
+				print ("id is " +_Inventory.inventory[i].itemName) ; 
+				myData._iUser.inventory .Add(new Item()) ;
+				myData._iUser.inventory [i].itemName =_Inventory.inventory[i].itemName ; 
+				myData._iUser.inventory [i].itemID =_Inventory.inventory[i].itemID ; 
+				myData._iUser.inventory [i].itemDesc =_Inventory.inventory[i].itemDesc ; 
+				//myData._iUser.inventory[i].itemIcon =_Inventory.inventory[i].itemIcon; 
+				myData._iUser.inventory [i].itemPower =_Inventory.inventory[i].itemPower ; 
+				myData._iUser.inventory [i].itemSpeed =_Inventory.inventory[i].itemSpeed ; 
+				myData._iUser.inventory [i].itemType =_Inventory.inventory[i].itemType ;  
+			}
+		
+			
 			
 			// Time to creat our XML! 
 			_data = SerializeObject(myData); 
@@ -162,6 +223,8 @@ public class UserData
 { 
 	// We have to define a default instance of the structure 
 	public DemoData _iUser; 
+	//_iUser.inventory = new List<Item> ;
+			
 	// Default constructor doesn't really do anything at the moment 
 	public UserData() { } 
 	
@@ -172,5 +235,9 @@ public class UserData
 		public float y; 
 		public float z; 
 		public string name; 
+		public List<Item> inventory ;
+		
+	    
+		
 	} 
 }

@@ -11,6 +11,7 @@ public class Item {
 	public int itemSpeed ;
 	public ItemType itemType ;
 	
+	
 	public enum ItemType {
 		Weapon,
 		Consumable,
@@ -20,12 +21,11 @@ public class Item {
 	 
 public Item(string name,int id, string desc, int power, int speed, ItemType type)
 	 {	
-	 
+		
 	 	itemName = name ;
 	 	itemID= id; 
 	 	itemDesc = desc ;
-	 	//itemIcon = Resources.Load<Texture2D>("Item Icons/" + name) ;
-	 	itemPower = power ;
+		itemPower = power ;
 	 	itemSpeed = speed ;
 	 	itemType = type ;
 	 	
@@ -33,8 +33,11 @@ public Item(string name,int id, string desc, int power, int speed, ItemType type
 	 }
 	public Item ()
 	{
-	
+		itemID = -1 ;
 	 } 
+
+	
+		 
 	 
 
 }
